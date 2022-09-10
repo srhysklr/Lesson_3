@@ -1,0 +1,46 @@
+* {
+	background-color: #fbf1f4;
+}
+
+.header .header-title {
+	color: green;
+}
+.main-content-text a.content-link {
+	color:rgb(226, 43, 43);
+} 
+
+.nav .deny-list a {
+	color: yellow;
+}
+
+.emphasis-brown .emphasis {
+	color:brown;
+}
+
+#top {
+	color:darksalmon;
+}
+
+span.citation {
+	color:rgb(226, 43, 43);
+}
+
+.list-item.hunger {       /*я навмисно вибрав саме маркер(кружечок)*/ 
+	color: red;
+}
+
+.list-item.color-turquoise {
+	color: turquoise;
+}
+
+.list .footer-list-item .footer-list-link{
+	color: red;
+}
+
+.list > li {
+	color: lime;
+}
+
+.deny-test + p {
+	color: fuchsia;
+}
